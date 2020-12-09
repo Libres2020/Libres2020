@@ -53,3 +53,11 @@ Las listas ordenas son:
 Las listas no ordenas son:
 -  Domingo
 -  Sabado
+
+##  Links
+Quiero ir [Google](http://www.google.com)
+Quiero ir [Google](http://www.google.com "Soy Lenin") y se mostrara un mensaje encima del link
+
+##  Imagen
+
+![Carro](https://i.blogs.es/594843/chrome/450_1000.jpg "Otro Mensaje")
