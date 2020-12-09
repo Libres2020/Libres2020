@@ -90,3 +90,34 @@ $ apt update
 ```xml
 <hola fonetica="3">Como estas </hola>
 ```
+
+## Tablas
+
+| Nombre | Apellido |
+| --- | --- |
+| Lenin | Mino |
+| David | Figueroa |
+
+
+## Citas
+
+Cita uno
+
+> Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarguisima y mas mas
+> Se sigue siendo parte de la cita
+
+Otra cita
+> Uno
+> Dos
+> Tres
+> **LENIN** `Mino`
+
+## Lineas Separadores y HTML
+
+Contenido
+----
+Contenido
+----
+
+
+<p>Hola **QUE TAL** <strong> Como estas </strong> </p>
