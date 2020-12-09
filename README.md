@@ -45,3 +45,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 Mi nombre es *Lenin* y ~~soy de 6to~~
+
+Las listas ordenas son:
+1.  Lunes
+1.  Martes
+
+Las listas no ordenas son:
+-  Domingo
+-  Sabado
