@@ -61,3 +61,32 @@ Quiero ir [Google](http://www.google.com "Soy Lenin") y se mostrara un mensaje e
 ##  Imagen
 
 ![Carro](https://i.blogs.es/594843/chrome/450_1000.jpg "Otro Mensaje")
+
+<img src="https://i.blogs.es/594843/chrome/450_1000.jpg" height="300px" >
+
+## Codigo
+
+En `Ptyhon` se puede crear variables vacias.
+
+```python
+print("Hola mundo")
+```
+
+```Kotlin
+val nombre="Lenin"
+```
+
+```javascript
+function comer(){
+}
+```
+
+```
+$ apt get install xxx
+$ echo Hola
+$ apt update
+```
+
+```xml
+<hola fonetica="3">Como estas </hola>
+```
