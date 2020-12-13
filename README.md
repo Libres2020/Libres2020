@@ -137,20 +137,23 @@ Contenido
 <form action="https://epn.us7.list-manage.com/subscribe/post?u=4792990a85bc95ad8b04931b4&amp;id=d36c1d3959" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Suscribirse</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Correo Electrónico  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
+<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Nombre </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
+<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Apellido </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
+<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE3">Tipo de Suscripción </label>
 	<select name="MMERGE3" class="" id="mce-MMERGE3">
