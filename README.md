@@ -143,19 +143,19 @@ Contenido
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Nombre </label>
+	<label for="mce-FNAME">Nombre <span class="asterisk">*</span>
+	</label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
-<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Apellido </label>
+	<label for="mce-LNAME">Apellido <span class="asterisk">*</span>
+	</label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<div class="indicates-required"><span class="asterisk">*</span> Campos Requeridos</div>
 <div class="mc-field-group">
-	<label for="mce-MMERGE3">Tipo de Suscripción </label>
+	<label for="mce-MMERGE3">Tipo de Suscripción <span class="asterisk">*</span>
+	</label>
 	<select name="MMERGE3" class="" id="mce-MMERGE3">
 	<option value=""></option>
 	<option value="Colaborador">Colaborador</option>
